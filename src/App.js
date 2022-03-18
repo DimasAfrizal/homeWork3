@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-require('dotenv').config()
+
 const spotify_key = process.env.API_KEY
 
 function App() {
